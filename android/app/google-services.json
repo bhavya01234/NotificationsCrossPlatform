@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "142503795042",
+    "project_id": "pushnotif-b3a5d",
+    "storage_bucket": "pushnotif-b3a5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142503795042:android:f3e706b0dd28e26ca4b43b",
+        "android_client_info": {
+          "package_name": "com.kraft.notif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8wjP-HvOYxUjG2k8sHzrATN4KDF0b5xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142503795042:android:d139f6853289daf1a4b43b",
+        "android_client_info": {
+          "package_name": "com.kraft.notif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8wjP-HvOYxUjG2k8sHzrATN4KDF0b5xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
